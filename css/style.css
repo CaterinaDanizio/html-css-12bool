@@ -10,6 +10,7 @@
   min-height: 200px;
   text-align: center;
   position: relative;
+  padding: 2px;
 }
 
 [class*="col-"] p {
@@ -21,4 +22,5 @@
 
 .nested {
   background-color: #ff4d4d;
+  border: solid 1px #fff;
 }

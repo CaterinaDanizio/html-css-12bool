@@ -1,7 +1,7 @@
 /* Impostazioni generali framework 12bool */
 
 .container {
-  width: 1170px;
+  max-width: 1170px;
   margin: 0 auto;
 }
 
